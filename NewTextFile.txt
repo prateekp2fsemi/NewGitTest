@@ -1,1 +1,2 @@
 Created new text file added first line.
+Created new branch and added second line.
